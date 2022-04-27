@@ -4,4 +4,4 @@ All in pure Python. No front‑end experience required.
 
 > pip install streamlit
 
-> streamlit hello
+> streamlit run streamlit.py
